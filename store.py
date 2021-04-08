@@ -2,6 +2,7 @@
 #enryu
 import pandas as pd
 from pandas import read_csv
+from tkinter import *
 import time
 filename = "data.csv"
 i=[]
